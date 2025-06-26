@@ -1,1 +1,1 @@
-"Peace comes from within. Do not seek it without." - Buddha
+"When something's important enough, you do it even if the odds are not in your favor." - Elon Musk
