@@ -23,11 +23,11 @@ That sounds like a fascinating game concept. Here are some potential features an
 
 * The game features vibrant, colorful 3D graphics, showcasing the sights and sounds of a Thai kitchen.
 * Authentic Thai music and sound effects enhance the immersive experience.
-* The game's UI is intuitive and easy to navigate, allowing players to focus on cooking.
+* The game\'s UI is intuitive and easy to navigate, allowing players to focus on cooking.
 
 **Educational Aspects**
 
-* Players learn about Thai culture and cuisine through the game's recipes, ingredients, and cooking techniques.
+* Players learn about Thai culture and cuisine through the game\'s recipes, ingredients, and cooking techniques.
 * The game includes fun facts and trivia about Thai cuisine, its history, and cultural significance.
 
 **Target Audience**
@@ -42,4 +42,8 @@ To further develop your game concept, you might consider:
 3. How will you balance the gameplay to be enjoyable for both casual and experienced players?
 4. Will you include multiplayer features, allowing players to cook and interact with others online?
 
-Feel free to elaborate on your ideas or provide more context, and I'll be happy to help!
+Feel free to elaborate on your ideas or provide more context, and I\'ll be happy to help!
+
+## Lebron James Quote
+
+"I like to be around people that\'s on the same mission as me."
