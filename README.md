@@ -44,6 +44,6 @@ To further develop your game concept, you might consider:
 
 Feel free to elaborate on your ideas or provide more context, and I\'ll be happy to help!
 
-## Lebron James Quote
+## Buddha Quote
 
-"I like to be around people that\'s on the same mission as me."
+"The mind is everything. What you think you become."
